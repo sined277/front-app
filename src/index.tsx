@@ -21,7 +21,6 @@ import { AuthProvidersPage, AuthRoot, UsersPage } from "./routes/project-root/au
 import { Header } from "./routes/root/header";
 
 
-
 const router = createBrowserRouter(
   createRoutesFromElements(
     <Route element={<AuthLayout />}>
